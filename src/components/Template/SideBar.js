@@ -12,8 +12,8 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a></p>
+        <h2>Yang Li</h2>
+        <p><a href="mailto:yangli99@uw.edu">yangli99@uw.edu</a></p>
       </header>
     </section>
 
@@ -31,7 +31,6 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
     </section>
   </section>
 );
