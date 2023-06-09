@@ -1,47 +1,78 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'PACCAR Battery Electric Vehicle Range Estimation Tool (Simplified for Public Access)',
+    subtitle: 'PACCAR CAPSTONE',
+    link: 'https://faculty.washington.edu/dblaning/bev_paccar/bev_paccar_range_estimator.html',
+    image: '/images/projects/pa.PNG',
+    date: '2023-06-15',
+    desc: 'A HTML BEV Range Estimation Calculator based on my UW Engine Research Project Sponsored by PACCAR Inc.'
+    + ' Due to data restrictions and NDA agreement, full version cannot be disclosed without permission from PACCAR,'
+    + ' However, feel free to try this simpifiled one for fun :)',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    title: 'Abnormality Detection and Predictions on Unseen Diseases in Chest X-ray Images',
+    subtitle: 'CSE576 Project',
+    link: 'https://github.com/sgyli87/Abnormality-Detection-on-Unseen-Diseases',
+    image: '/images/projects/ad.PNG',
+    date: '2023-06-05',
+    desc: 'The COVID-19 pandemic has caused enormous challenges for medical experts in identifying the abnormalities from radiography images due to the lack of pre-labeled training data. The recent need to analyze radiography images efficiently'
+    + 'without pre-labeled unseen diseases is essential in helping combat future pandemics'
+    + 'and reduce the burden on society.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Interactive Data Visualization - Transportation Inequity',
+    subtitle: 'CSE412 Project',
+    link: 'https://observablehq.com/d/008a5280af648e23',
+    image: '/images/projects/tn.PNG',
+    date: '2023-06-01',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'An Interactive Data Visualization Notebook based on JavaScript, Vega-Lite and Observable.'
+      + 'Disclosing how transportation accessbility is currently affecting the general public in US financially.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+    title: 'Rainier Vision - A C based Image Processing Library',
+    subtitle: '',
+    link: 'https://github.com/sgyli87/Rainier_Vision',
+    image: '/images/projects/r5.jpg',
+    date: '2023-04-28',
+    desc: 'A C based image processing/computer vision library. Functions include color-space modification, image resizing and filtering, corner detection and panorama stitching, feed-forward neural nets, and optical flow.',
+  },
+  {
+    title: 'ECE MiniYouTube',
+    subtitle: '',
+    link: 'https://github.com/sgyli87/ECE-MiniYouTube',
+    image: '/images/projects/ece.PNG',
+    date: '2023-03-15',
+    desc: 'A Java P2P network application featuring UDP based protocol, performs HTTP responses based on content search in peer network, sliding window congestion control, LSA and gossip protocol.',
+  },
+  {
+    title: 'HuskyMap',
+    subtitle: '',
+    link: 'https://github.com/sgyli87/HM_Project',
+    image: '/images/projects/hm.PNG',
+    date: '2022-11-15',
+    desc: 'An educational web app for mapping the world, searching for places, and navigating around Seattle. The app is designed to highlight 3 components: Autocomplete, Priority Queues, and Shortest Paths. Each of these components not only implement features in Husky Maps, but also implement 3 other socially-motivated applications of computing: social genomics, content moderation, and seam carving for content-aware image resizing.',
+  },
+  {
+    title: 'C based Memory Management',
+    subtitle: '',
+    link: 'https://github.com/sgyli87/Memory-Management',
+    image: '/images/projects/mm.PNG',
+    date: '2022-12-15',
+    desc: '',
+  },
+  {
+    title: 'Algorithmic Classification of Topological Textiles',
+    subtitle: '',
+    link: 'https://drive.google.com/file/d/1hb8tn5RJ6sN_ZZ7XbZ801smgM-fW42Re/view?usp=sharing',
+    image: '/images/projects/tt.PNG',
+    date: '2021-05-15',
+    desc: 'A textile structure is a periodic arrangement of threads in the thickened plane and they can be represented by textile code, which is a recently introduced extension of Gauss code in classical knot theory. An exhaustive list of all possible textile codes is needed to enumerate'
+    + 'all distinct textile structures of a given complexity. However, this list tends to contain'
+    + 'redundant records and classification on them is normally conducted by hand. This project'
+    + 'thus proposes a computation pipeline supported by existing software libraries to automate'
+    + 'this process. ',
   },
 ];
 
