@@ -8,6 +8,14 @@ const data = [
     desc: 'UW Engine poster showcase day with Prof David B Laning and my teammate Lu',
   },
   {
+    title: 'Aurora Fairbanks',
+    subtitle: '',
+    link: '',
+    image: '/images/gallery/aurora.jpg',
+    date: '2023-03-15',
+    desc: 'Extremely strong aurora during my visit to Fairbanks, Alaska',
+  },
+  {
     title: 'HYC SiscanTech Team',
     subtitle: '',
     link: '',
