@@ -12,7 +12,7 @@ const skills = [
   {
     title: 'React',
     competency: 4,
-    category: ['Web Development', 'Javascript'],
+    category: ['Web Development', 'Javascript', 'Framework'],
   },
   {
     title: 'Bash/Linux',
@@ -47,7 +47,7 @@ const skills = [
   {
     title: 'Docker',
     competency: 3,
-    category: ['Tools', 'Data Engineering'],
+    category: ['Tools'],
   },
   {
     title: 'Numpy',
