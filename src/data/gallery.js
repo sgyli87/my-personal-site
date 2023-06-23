@@ -1,11 +1,11 @@
 const data = [
   {
-    title: 'UW Engine Showcase Day',
+    title: 'UW PACCAR Showcase Day',
     subtitle: '',
     link: '',
-    image: '/images/gallery/showcase.jpg',
-    date: '2023-06-15',
-    desc: 'UW Engine poster showcase day with Prof David B Laning and my teammate Lu',
+    image: '/images/gallery/PAshowcase.jpg',
+    date: '2023-06-14',
+    desc: 'UW PACCAR Engine poster showcase day with Prof David B Laning, Nick Hertlein(PACCAR Technical Center) and my teammates',
   },
   {
     title: 'Aurora Fairbanks',
