@@ -1,5 +1,21 @@
 const data = [
   {
+    title: 'Reflection Lake',
+    subtitle: '',
+    link: '',
+    image: '/images/gallery/ref.jpg',
+    date: '2023-06-14',
+    desc: 'Birdview of the reflection lake, from the highest stand of lake trail.',
+  },
+  {
+    title: 'Rainier Skyline Trail',
+    subtitle: '',
+    link: '',
+    image: '/images/gallery/skyline.jpg',
+    date: '2023-06-14',
+    desc: 'Astonishing view of Mt. Rainier at Skyline Trail.',
+  },
+  {
     title: 'UW PACCAR Showcase Day',
     subtitle: '',
     link: '',
