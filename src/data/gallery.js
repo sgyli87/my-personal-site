@@ -24,6 +24,14 @@ const data = [
     desc: 'UW PACCAR Engine poster showcase day with Prof David B Laning, Nick Hertlein(PACCAR Technical Center) and my teammates',
   },
   {
+    title: 'UW PACCAR Showcase Day Presentation',
+    subtitle: '',
+    link: '',
+    image: '/images/gallery/pres.PNG',
+    date: '2023-06-14',
+    desc: 'Presenting our project to PACCAR stakeholders, UW faculty and colleague student teams.',
+  },
+  {
     title: 'Aurora Fairbanks',
     subtitle: '',
     link: '',
