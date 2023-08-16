@@ -19,8 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Yang. I am a <a href="https://www.ece.uw.edu/researcharea/communications-and-networking/">UW Computer Engineering</a> graduate student. I previously graduated from
-        the <a href="https://www.liverpool.ac.uk/">University of Liverpool</a> with a First Class Honours degree in Computer Science and Engineering.
+      <p>Hi, I&apos;m Yang. I am a <a href="https://www.ece.uw.edu/researcharea/communications-and-networking/">UW Computer Engineering</a> graduate student.
       </p>
       <ul className="actions">
         <li>
