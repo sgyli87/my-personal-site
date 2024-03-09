@@ -29,7 +29,7 @@ const data = [
     + 'and reduce the burden on society.',
   },
   {
-    title: 'Interactive Data Visualization - Transportation Inequity',
+    title: 'Interactive Data Visualization - Transportation Inequity.',
     subtitle: 'CSE412 Project',
     link: 'https://observablehq.com/d/008a5280af648e23',
     image: '/images/projects/tn.PNG',
