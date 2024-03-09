@@ -1,5 +1,13 @@
 const data = [
   {
+    title: 'Research Showcase',
+    subtitle: '',
+    link: '',
+    image: '/images/gallery/showcase.jpg',
+    date: '2024-03-07',
+    desc: 'Me presenting our work at UW ECE Research Showcase 2024!',
+  },
+  {
     title: 'Reflection Lake',
     subtitle: '',
     link: '',

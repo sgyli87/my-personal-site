@@ -1,6 +1,14 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Makeability Lab, Fine-tuning RTMDet model',
+    subtitle: 'Research Assistant',
+    link: 'https://github.com/makeabilitylab/mmdet-fine-tuning',
+    image: '/images/projects/rtmdet.jpg',
+    date: '2024-03-8',
+    desc: 'A general code pipeline for fine-tuning RTMDet based model with customized dataset.',
+  },
+  {
     title: 'PACCAR Battery Electric Vehicle Range Estimation Tool (Simplified for Public Access)',
     subtitle: 'PACCAR CAPSTONE',
     link: 'https://faculty.washington.edu/dblaning/bev_paccar/bev_paccar_range_estimator.html',
