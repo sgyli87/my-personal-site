@@ -1,6 +1,14 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'CooKAR：Affordance Augmentations in Wearable AR to Support Kitchen Tool Interactions for People with Low Vision',
+    subtitle: 'Research Assistant',
+    link: 'https://github.com/makeabilitylab/CookAR',
+    image: '/images/projects/banner2.png',
+    date: '2024-07-26',
+    desc: 'UIST 2024.',
+  },
+  {
     title: 'Makeability Lab, Fine-tuning RTMDet model',
     subtitle: 'Research Assistant',
     link: 'https://github.com/makeabilitylab/mmdet-fine-tuning',
@@ -45,30 +53,6 @@ const data = [
     image: '/images/projects/r5.jpg',
     date: '2023-04-28',
     desc: 'A C based image processing/computer vision library. Functions include color-space modification, image resizing and filtering, corner detection and panorama stitching, feed-forward neural nets, and optical flow.',
-  },
-  {
-    title: 'ECE MiniYouTube',
-    subtitle: '',
-    link: 'https://github.com/sgyli87/ECE-MiniYouTube',
-    image: '/images/projects/ece.jpg',
-    date: '2023-03-15',
-    desc: 'A Java P2P network application featuring UDP based protocol, performs HTTP responses based on content search in peer network, sliding window congestion control, LSA and gossip protocol.',
-  },
-  {
-    title: 'HuskyMap',
-    subtitle: '',
-    link: 'https://github.com/sgyli87/HM_Project',
-    image: '/images/projects/hm.jpg',
-    date: '2022-11-15',
-    desc: 'An educational web app for mapping the world, searching for places, and navigating around Seattle. The app is designed to highlight 3 components: Autocomplete, Priority Queues, and Shortest Paths. Each of these components not only implement features in Husky Maps, but also implement 3 other socially-motivated applications of computing: social genomics, content moderation, and seam carving for content-aware image resizing.',
-  },
-  {
-    title: 'C based Memory Management',
-    subtitle: '',
-    link: 'https://github.com/sgyli87/Memory-Management',
-    image: '/images/projects/mm.jpg',
-    date: '2022-12-15',
-    desc: '',
   },
   {
     title: 'Algorithmic Classification of Topological Textiles',
